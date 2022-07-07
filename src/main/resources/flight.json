@@ -1,0 +1,37 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 8900,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2015-10-31T12:11:55-01:00"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 6215,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "GDN",
+    "departureDate": "2019-04-11T02:12:43-02:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 7741,
+    "departureAirportIATACode": "SEA",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2015-03-11T03:34:46-01:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 8348,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "MIT",
+    "departureDate": "2014-03-03T06:23:28-01:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 6694,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2014-08-17T01:46:25-02:00"
+  }
+]
